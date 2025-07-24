@@ -1,0 +1,20 @@
+{
+  "user-name": [
+    { "Locator": "//input[@id='user-name']", "LocatorType": "Xpath" },
+    { "Locator": "#user-name", "LocatorType": "Css" },
+    { "Locator": "user-name", "LocatorType": "Name" },
+    { "Locator": "input[name='user-name']", "LocatorType": "Css" }
+  ],
+  "password": [
+    { "Locator": "//input[@id='password']", "LocatorType": "Xpath" },
+    { "Locator": "#password", "LocatorType": "Css" },
+    { "Locator": "password", "LocatorType": "Name" },
+    { "Locator": "input[name='password']", "LocatorType": "Css" }
+  ],
+  "login-button": [
+    { "Locator": "//input[@id='login-button']", "LocatorType": "Xpath" },
+    { "Locator": "#login-button", "LocatorType": "Css" },
+    { "Locator": "login-button", "LocatorType": "Name" },
+    { "Locator": "input[type='submit']", "LocatorType": "Css" }
+  ]
+}

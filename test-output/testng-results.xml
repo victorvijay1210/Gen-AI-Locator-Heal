@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-30T16:06:23 IST" name="Default suite" finished-at="2025-05-30T16:06:35 IST" duration-ms="12039">
+    <groups>
+    </groups>
+    <test started-at="2025-05-30T16:06:23 IST" name="Default test" finished-at="2025-05-30T16:06:35 IST" duration-ms="12039">
+      <class name="gettingStarted.APITest">
+        <test-method signature="testFavoritesEndpointFromOpenAI()[pri:0, instance:gettingStarted.APITest@229f66ed]" started-at="2025-05-30T16:06:23 IST" name="testFavoritesEndpointFromOpenAI" finished-at="2025-05-30T16:06:35 IST" duration-ms="11961" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFavoritesEndpointFromOpenAI -->
+      </class> <!-- gettingStarted.APITest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

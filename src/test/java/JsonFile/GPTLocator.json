@@ -1,0 +1,68 @@
+{
+  "user-name": [
+    {
+      "Locator": "#user-name",
+      "LocatorType": "Css"
+    },
+    {
+      "Locator": "input[name='user-name']",
+      "LocatorType": "Css"
+    },
+    {
+      "Locator": "//input[@id='user-name']",
+      "LocatorType": "Xpath"
+    },
+    {
+      "Locator": "//input[@name='user-name']",
+      "LocatorType": "Xpath"
+    },
+    {
+      "Locator": "user-name",
+      "LocatorType": "Name"
+    }
+  ],
+  "password": [
+    {
+      "Locator": "#password",
+      "LocatorType": "Css"
+    },
+    {
+      "Locator": "input[name='password']",
+      "LocatorType": "Css"
+    },
+    {
+      "Locator": "//input[@id='password']",
+      "LocatorType": "Xpath"
+    },
+    {
+      "Locator": "//input[@name='password']",
+      "LocatorType": "Xpath"
+    },
+    {
+      "Locator": "password",
+      "LocatorType": "Name"
+    }
+  ],
+  "login-button": [
+    {
+      "Locator": "#login-button",
+      "LocatorType": "Css"
+    },
+    {
+      "Locator": "input[name='login-button']",
+      "LocatorType": "Css"
+    },
+    {
+      "Locator": "//input[@id='login-button']",
+      "LocatorType": "Xpath"
+    },
+    {
+      "Locator": "//input[@name='login-button']",
+      "LocatorType": "Xpath"
+    },
+    {
+      "Locator": "login-button",
+      "LocatorType": "Name"
+    }
+  ]
+}
